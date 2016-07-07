@@ -1,0 +1,23 @@
+{
+  "name": "express-sabayon",
+  "version": "1.0.0",
+  "description": "Express Middleware that serves the ACME challenge defined by Sabayon https://github.com/dmathieu/sabayon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hone/express-sabayon.git"
+  },
+  "keywords": [
+    "express",
+    "acme"
+  ],
+  "author": "Terence Lee <hone02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hone/express-sabayon/issues"
+  },
+  "homepage": "https://github.com/hone/express-sabayon#readme"
+}
